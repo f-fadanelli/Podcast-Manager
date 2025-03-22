@@ -1,0 +1,20 @@
+[
+    {
+        "podcastName": "Flow",
+        "episodeName": "Cbum",
+        "videoId": "1234",
+        "category": ["saúde", "fitness"]
+    },
+    {
+        "podcastName": "Flow",
+        "episodeName": "Doctor",
+        "videoId": "1235",
+        "category": ["games", "medicine"]
+    },
+    {
+        "podcastName": "Podpah",
+        "episodeName": "Fred",
+        "videoId": "1236",
+        "category": ["futebol"]
+    }
+]
